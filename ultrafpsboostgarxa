@@ -35,3 +35,4 @@
 					e.Enabled = false
 				end
 			end
+print("Ultra Fps Boost Enabled")
