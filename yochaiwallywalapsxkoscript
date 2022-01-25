@@ -42,7 +42,7 @@ end
       for i = 1, 1 do
       game:GetService"StarterGui":SetCore('SendNotification', {
           Title = "Hey!";
-          Text = "If you want to use old script then type - DEVIL xD";
+          Text = "If you want to use old script then type in chat - DEVIL xD";
           Duration = 5;
       })
   end
